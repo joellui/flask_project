@@ -14,3 +14,6 @@ This will help you get all the packages in the virtual environment.
 
 ``` $ pip install -r requirements.txt ```
 
+### For Designing the web [Bootstrap 4](https://getbootstrap.com/docs/4.0/getting-started/introduction/) was used.
+
+### For Database we used [SQLAlchemy](https://www.sqlalchemy.org/)
