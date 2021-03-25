@@ -54,3 +54,7 @@ to remove data
 ```python
 db.drop_all()
 ```
+
+## Check out the live demo on Heroku..
+
+[Flask Blog](http://projectinfography.herokuapp.com/)
